@@ -2,8 +2,8 @@
 #include <conio.h>
 
 /*
-**WORK IN PROGRESS**
 **UNDER CONSTRUCTION**
+**WORK IN PROGRESS**
 */
 
 unsigned char getChar(unsigned char stage) {
